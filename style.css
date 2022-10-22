@@ -3,3 +3,8 @@ body {
 	color: #ffffff;
         font-family: 'Roboto Mono', monospace;
 }
+h1 {
+	color: red;
+	font-size: 3em;
+	
+}
